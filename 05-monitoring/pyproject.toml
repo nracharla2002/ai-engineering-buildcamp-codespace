@@ -1,0 +1,11 @@
+[project]
+name = "05-monitoring"
+version = "0.1.0"
+description = "week 5 - monitoring"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "logfire>=5.1.1",
+    "pydantic-ai>=2.54.0",
+    "requests>=2.34.2",
+]
